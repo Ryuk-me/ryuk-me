@@ -22,5 +22,5 @@
 <br />
 <div>
     
-    <img src="https://media1.tenor.com/images/31e04a32863beb1de64dcc36036a6ea6/tenor.gif?itemid=17177842" width="30" height="30"/>
+    <img src="https://media1.tenor.com/images/31e04a32863beb1de64dcc36036a6ea6/tenor.gif" width="30" height="30"/>
 </div>

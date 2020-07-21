@@ -1,8 +1,8 @@
   ### Hi there, I'm [Neeraj Kumar!](https://ryuk-me.github.io/sastabio/index.html) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<img align='right' src='https://github.com/Ryuk-me/Ryuk-me.github.io/blob/master/sastabio/onichan.jpg' width='150"'>
+<img align='right' src='https://github.com/Ryuk-me/Ryuk-me.github.io/blob/master/sastabio/onichan.jpg'  width='150"'>
 <a href="https://twitter.com/ryuk_me">
-  <img align="left" alt="Neeraj Kumar | Twitter" width="25px" height="22px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/twitter.gif" />
+  <img align="left" alt="Neeraj Kumar | Twitter" width="25px" height="22px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/twitter.gif" target="_blank" />
 </a>
 <a href="http://instagram.com/ryuk_me/">
   <img align="left" alt="Neeraj's Insta" width="25px" height="22px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/insta_new.gif" />

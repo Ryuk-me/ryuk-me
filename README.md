@@ -1,4 +1,4 @@
-  ### Hi there, I'm [Neeraj Kumar!](https://ryuk-me.github.io/sastabio/index.html) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  ### Hi there, I'm [Neeraj!](https://ryuk-me.github.io/sastabio/index.html) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <img align='right' src='https://github.com/Ryuk-me/Ryuk-me.github.io/blob/master/sastabio/onichan.jpg' width='150"'>
 <a href="https://twitter.com/ryuk_me">

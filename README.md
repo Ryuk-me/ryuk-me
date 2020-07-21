@@ -17,3 +17,10 @@
 - 🤔 I’m looking for help with <strong>Kotlin App Development</strong>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ryuk-me&show_icons=true&theme=dracula">
+
+<br />
+<br />
+<div>
+    
+    <img src="https://media1.tenor.com/images/31e04a32863beb1de64dcc36036a6ea6/tenor.gif?itemid=17177842" width="30" height="30"/>
+</div>

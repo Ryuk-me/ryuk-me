@@ -1,4 +1,4 @@
-  ### Hi there, I'm [Neeraj!](https://ryuk-me.github.io) 👋
+  ### Hi there, I'm [Neeraj!](https://ryuk-me.github.io/sastabio/index.html) 👋
 
 
 - 🔭 I’m currently working on Android App development

@@ -5,7 +5,7 @@
   <img align="left" alt="Neeraj Kumar | Twitter" width="25px" height="22px" src="https://media1.tenor.com/images/e17177fb486d3f88d965e4f09ceebfe6/tenor.gif" />
 </a>
 <a href="http://instagram.com/ryuk_me/">
-  <img align="left" alt="Neeraj's Insta" width="21px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/insta.svg" />
+  <img align="left" alt="Neeraj's Insta" width="25px" height="22px" src="https://media1.tenor.com/images/bc9402bec093446121e6de485590c921/tenor.gif" />
 </a>
 <a href="https://www.linkedin.com/in/neeraj-kumar-5178281b0/">
   <img align="left" alt="Neeraj's LinkedIn" width="21px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/linkedin.svg" />

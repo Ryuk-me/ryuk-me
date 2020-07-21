@@ -6,6 +6,9 @@
 <a href="http://instagram.com/ryuk_me/">
   <img align="left" alt="Neeraj's Insta" width="21px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/insta.svg" />
 </a>
+<a href="https://www.linkedin.com/in/neeraj-kumar-5178281b0/">
+  <img align="left" alt="Neeraj's LinkedIn" width="21px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/linkedin.svg" />
+</a>
 <br />
 <br />
 

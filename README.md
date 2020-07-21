@@ -1,6 +1,6 @@
   ### Hi there, I'm [Neeraj!](https://ryuk-me.github.io/sastabio/index.html) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<img align='right' src='https://media1.tenor.com/images/629b065f07bd59226785164e6a2310f1/tenor.gif' width='150"'>
+<img align='right' src='https://github.com/Ryuk-me/Ryuk-me.github.io/blob/master/sastabio/onichan.jpg' width='150"'>
 <a href="https://twitter.com/ryuk_me">
   <img align="left" alt="Neeraj Kumar | Twitter" width="21px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/twitter.svg" />
 </a>
@@ -45,7 +45,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://media1.tenor.com/images/31e04a32863beb1de64dcc36036a6ea6/tenor.gif" width="30" height="30"/>
+
 
 </div>
 

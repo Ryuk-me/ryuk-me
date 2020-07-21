@@ -6,7 +6,7 @@
 }
 </style>
 
-<img align='right'class="grill" src='https://media2.giphy.com/media/W6dHvprT7oks6BpX5R/giphy.gif'  width='150"'>
+<img align='right'class="grill" src='https://media2.giphy.com/media/W6dHvprT7oks6BpX5R/giphy.gif'  width="150">
 <a href="https://twitter.com/ryuk_me" target="_blank">
   <img align="left" alt="Neeraj Kumar | Twitter" width="25px" height="22px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/twitter.gif" />
 </a>

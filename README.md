@@ -5,7 +5,7 @@
 </a>
 <a href="http://instagram.com/ryuk_me/">
   <img align="left" alt="Neeraj's Insta" width="21px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/insta.svg" />
-</a>
+</a><br>
 
 - 🔭 I’m currently working on Android App development
 - 🌱 I’m currently learning Kotlin

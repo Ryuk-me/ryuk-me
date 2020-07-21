@@ -12,7 +12,7 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on Android App development
+- 🔭 I’m currently working on <strong>Android App development</strong>
 - 🌱 I’m currently learning Kotlin
 - 🤔 I’m looking for help with Kotlin App Development
 

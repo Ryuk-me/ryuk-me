@@ -2,7 +2,7 @@
 
 <img align='right' src='https://github.com/Ryuk-me/Ryuk-me.github.io/blob/master/sastabio/onichan.jpg' width='150"'>
 <a href="https://twitter.com/ryuk_me">
-  <img align="left" alt="Neeraj Kumar | Twitter" width="21px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/twitter.svg" />
+  <img align="left" alt="Neeraj Kumar | Twitter" width="21px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F794392821758421034%2F&psig=AOvVaw3JtiAMeosQO_QzY-J6wrkT&ust=1595440631055000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCXhdL13uoCFQAAAAAdAAAAABAD" />
 </a>
 <a href="http://instagram.com/ryuk_me/">
   <img align="left" alt="Neeraj's Insta" width="21px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/insta.svg" />

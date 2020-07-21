@@ -1,13 +1,13 @@
   ### Hi there, I'm [Neeraj Kumar!](https://ryuk-me.github.io/sastabio/index.html) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <img align='right' src='https://github.com/Ryuk-me/Ryuk-me.github.io/blob/master/sastabio/onichan.jpg'  width='150"'>
-<a href="https://twitter.com/ryuk_me">
-  <img align="left" alt="Neeraj Kumar | Twitter" width="25px" height="22px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/twitter.gif" target="_blank" />
+<a href="https://twitter.com/ryuk_me" target="_blank">
+  <img align="left" alt="Neeraj Kumar | Twitter" width="25px" height="22px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/twitter.gif" />
 </a>
-<a href="http://instagram.com/ryuk_me/">
+<a href="http://instagram.com/ryuk_me/" target="_blank">
   <img align="left" alt="Neeraj's Insta" width="25px" height="22px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/insta_new.gif" />
 </a>
-<a href="https://www.linkedin.com/in/neeraj-kumar-5178281b0/">
+<a href="https://www.linkedin.com/in/neeraj-kumar-5178281b0/" target="_blank">
   <img align="left" alt="Neeraj's LinkedIn" width="31.5px" height="22px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/linkedIn.gif" />
 </a>
 <br />

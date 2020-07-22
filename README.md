@@ -8,7 +8,7 @@
   <img align="left" alt="Neeraj's Insta" width="25px" height="24px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/insta_new.gif" />
 </a>
 <a href="https://www.linkedin.com/in/neeraj-kumar-5178281b0/">
-  <img align="left" alt="Neeraj's LinkedIn" width="31.5px" height="24px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/linkedIn.gif" />
+  <img align="left" alt="Neeraj's LinkedIn" width="33px" height="24px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/linkedIn.gif" />
 </a>
 <br />
 <br />

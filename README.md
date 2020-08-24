@@ -13,10 +13,6 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on <strong>Android App development</strong>
-- 🌱 I’m currently learning <strong>Kotlin</strong>
-- 🤔 I’m looking for help with <strong>Kotlin App Development</strong>
-
 <img src="https://github-readme-stats.vercel.app/api?username=ryuk-me&show_icons=true&theme=dracula">
 
 <br />

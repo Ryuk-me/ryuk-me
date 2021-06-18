@@ -9,8 +9,13 @@
 <a href="http://instagram.com/ryuk_me/">
   <img align="left" alt="Neeraj's Insta" width="25px" height="24px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/insta_new.gif" />
 </a> -->
+
 <a href="https://www.linkedin.com/in/neeraj-kumar-5178281b0/">
   <img align="left" alt="Neeraj's LinkedIn" width="40px" height="40px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/linkedIn2.gif" />
+</a>
+
+<a href="https://t.me/ryuk_me">
+  <img align="left" alt="Ryuk_me" width="40px" height="40px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/tg.png" />
 </a>
 <br />
 <br />

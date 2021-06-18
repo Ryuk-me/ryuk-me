@@ -2,7 +2,9 @@
   
   ![](https://komarev.com/ghpvc/?username=ryuk-me&color=dc143c&style=plastic&label=Visitors&color=blueviolet)
 
-<img align='right' src='https://github.com/Ryuk-me/Ryuk-me.github.io/blob/master/sastabio/onichan.jpg' width='150"'>
+<!-- <img align='right' src='https://github.com/Ryuk-me/Ryuk-me.github.io/blob/master/sastabio/onichan.jpg' width='150"'> -->
+<!-- <img align='right' src='https://github.com/Ryuk-me/ryuk-me/blob/master/asset/tenor.gif' width='150' style='border-radius: 100%;'> -->
+
 <!-- <a href="https://twitter.com/ryuk_me">
   <img align="left" alt="Neeraj Kumar | Twitter" width="25px" height="24px" src="https://github.com/Ryuk-me/ryuk-me/blob/master/asset/twitter.gif" />
 </a>

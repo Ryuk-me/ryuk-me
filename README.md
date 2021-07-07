@@ -22,6 +22,9 @@
 <br />
 <br />
 
+<strong>Currently</strong> i'm not active</br>
+Please Contact me on telegram if u have any project related issue.
+
 <img src="https://github-readme-stats.vercel.app/api?username=ryuk-me&show_icons=true&theme=dracula">
 
 <br />
